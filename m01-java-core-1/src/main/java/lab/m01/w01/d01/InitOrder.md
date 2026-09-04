@@ -1,0 +1,3 @@
+- Static Field run ony one time no matter you create how many instances
+- Becase static field belong to class not belong to object so that it not depend on the time init object
+- static field initilize before an object created
